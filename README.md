@@ -50,9 +50,8 @@ A base `predictive_maintenance.csv` contém registros de sensores industriais co
 
 2. Instale as dependências:
 
-   ```bash
+
    pip install -r requirements.txt
-   ```
 
 3. Execute o notebook `predição de falhas.ipynb` em um ambiente como Jupyter Notebook, Google Colab ou VSCode.
 
