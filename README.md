@@ -71,6 +71,6 @@ A base `predictive_maintenance.csv` contém registros de sensores industriais co
 ✍️ Autor
 
 Pedro Victor Gonçalves
-[Cientista de Dados em formação](https://github.com/pedrovictorgoncalves)
+[Cientista de Dados em formação
 
 
