@@ -33,14 +33,14 @@ Isso permite **otimizar o plano de manutenção**, reduzir custos e evitar parad
 
 ````
 
-## 📊 Base de Dados
+ 📊 Base de Dados
 
 A base `predictive_maintenance.csv` contém registros de sensores industriais com atributos como:
 
 - `Temperature`, `Pressure`, `RPM`, `Vibration`, `TimeSinceMaintenance`
 - `Failure` (0: sem falha, 1: falha detectada)
 
-## 🚀 Como Executar
+🚀 Como Executar
 
 1. Clone este repositório:
    ```bash
@@ -56,7 +56,7 @@ A base `predictive_maintenance.csv` contém registros de sensores industriais co
 
 3. Execute o notebook `predição de falhas.ipynb` em um ambiente como Jupyter Notebook, Google Colab ou VSCode.
 
-## ✅ Resultados
+✅ Resultados
 
 * Modelos treinados com boa performance na previsão de falhas
 * Visualizações gráficas claras sobre o comportamento dos sensores
@@ -67,13 +67,8 @@ A base `predictive_maintenance.csv` contém registros de sensores industriais co
 * Python 3.x
 * Bibliotecas: pandas, numpy, matplotlib, seaborn, scikit-learn
 
-> Você pode gerar um arquivo `requirements.txt` com:
->
-> ```bash
-> pip freeze > requirements.txt
-> ```
 
-## ✍️ Autor
+✍️ Autor
 
 Pedro Victor Gonçalves
 [Cientista de Dados em formação](https://github.com/pedrovictorgoncalves)
